@@ -23,10 +23,17 @@ where each of the variables in brackets (<>) is replaced with one word from its 
 | verb | run, bark, sing, eat, pee, poo, graze, fight, steal, talk, sound, hug, live, shine, yell, swim, code |
 | adverb | quickly, slowly, happily, safely, innocently, eagerly, angryly, occasionally, wildly |
 
+Example output: `Every cat can hug eagerly.`
+
 ## Technologies
 - Javascript
 
 ## Features
-
+- The app can output one line of random text at a time.
 
 ## Setup
+Using Node: download the file called _randomMessage.js_ and run the console command:  
+```
+node randomMessage.js
+````
+in the same directory where the file is located.
