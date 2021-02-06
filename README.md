@@ -7,6 +7,7 @@ This is a javascrpit application that generates text randomly. The user can get 
 - [Technologies](#technologies)
 - [Features](#features)
 - [Setup](#setup)
+- [License](#license)
 
 ## Overview
 
@@ -38,6 +39,6 @@ node randomMessage.js
 ````
 in the same directory where the file is located.
 
-## Licence
-You can check out the full licence [here](https://github.com/oscarmires/mixed-messages/blob/main/LICENSE). 
+## License
+You can check out the full license [here](https://github.com/oscarmires/mixed-messages/blob/main/LICENSE). 
 This project is licensed under the terms of the MIT license.
