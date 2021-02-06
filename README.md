@@ -20,7 +20,7 @@ where each of the variables in brackets (<>) is replaced with one word from its 
 |:---------|:------------ |
 | determiner | No, Some, Many, Every |
 | animal name | dog(s), cat(s), elefant(s), horse(s), sheep, fish, sloth(s), cow(s), whale(s), chicken(s) |
-| verb | run, bark, sing, eat, pee, poo, graze, fight, steal, talk, sound, hug, live, shine, yell, code |
+| verb | run, bark, sing, eat, pee, poo, graze, fight, steal, talk, sound, hug, live, shine, yell, swim, code |
 | adverb | quickly, slowly, happily, safely, innocently, eagerly, angryly, occasionally, wildly |
 
 ## Technologies
