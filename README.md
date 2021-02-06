@@ -37,3 +37,7 @@ Using Node: download the file called _randomMessage.js_ and run the console comm
 node randomMessage.js
 ````
 in the same directory where the file is located.
+
+## Licence
+You can check out the full licence [here](https://github.com/oscarmires/mixed-messages/blob/main/LICENSE). 
+This project is licensed under the terms of the MIT license.
