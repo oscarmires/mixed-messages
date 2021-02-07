@@ -1,4 +1,4 @@
-# Mixed messages
+# Animal Facts
 
 This is a javascrpit application that generates text randomly. The user can get new text every time they request it.
 
@@ -30,6 +30,9 @@ Example output: `Every cat can hug eagerly.`
 
 ## Features
 - The app can output one line of random text at a time.
+
+## Project status
+The function that generates every random Animal Fact is completed. An HTML grafical interface is currently under development.
 
 ## Setup
 Using Node: download the file called _randomMessage.js_ and run the console command:  
