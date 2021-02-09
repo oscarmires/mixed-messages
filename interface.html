@@ -7,23 +7,30 @@
     <title>Random message</title>
 </head>
 <body>
-    <h1>Animal Facts</h1>
-    <div id="message">
-        <p id="message-text">
-            Waiting for random message...
-        </p>
-    </div>
-    <div id=info>
-        <h2>About the project</h2>
-        <p>
-            Animal Facts is a javascript learning project created by 
-            <a href="https://github.com/oscarmires" target="_blank">oscarmires</a> in 2021.
-            <br>
-            This page is currently under development. 
-            <br>
-            Check out the <a href="https://github.com/oscarmires/mixed-messages" target="_blank"> 
-                repo in Github</a>.
-        </p>
-    </div>
+    <header>
+        <h1>Animal Facts</h1>
+    </header>
+    <main>
+        <article id="message-display">
+            <section id="message-box">
+                <p id="message-box-text">
+                    Waiting for random message...
+                </p>
+            </section>
+            <!-- TODO: button section "generate new message"-->
+        </article>
+        <div id=info>
+            <h2>About the project</h2>
+            <p>
+                Animal Facts is a javascript learning project created by 
+                <a href="https://github.com/oscarmires" target="_blank">oscarmires</a> in 2021.
+                <br>
+                This page is currently under development. 
+                <br>
+                Check out the <a href="https://github.com/oscarmires/mixed-messages" target="_blank"> 
+                    repo in Github</a>.
+            </p>
+        </div>    
+    </main>
 </body>
 </html>
